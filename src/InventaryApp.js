@@ -6,7 +6,6 @@ import {
   Route,
 
 } from 'react-router-dom';
-
 import { Inventory } from './components/main/inventory/Inventory'
 import { Brand } from './components/main/brand/Brand'
 import { Type } from './components/main/type/Type'
